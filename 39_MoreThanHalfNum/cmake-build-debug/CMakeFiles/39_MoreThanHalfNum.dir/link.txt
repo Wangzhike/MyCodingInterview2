@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/39_MoreThanHalfNum.dir/main.cpp.o  -o 39_MoreThanHalfNum 

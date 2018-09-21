@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/42_GreatestSumOfSubArray.dir/main.cpp.o  -o 42_GreatestSumOfSubArray 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/27_Mirror.dir/main.cpp.o  -o 27_Mirror 

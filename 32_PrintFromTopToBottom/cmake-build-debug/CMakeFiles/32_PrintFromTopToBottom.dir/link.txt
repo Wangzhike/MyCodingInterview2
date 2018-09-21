@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/32_PrintFromTopToBottom.dir/main.cpp.o  -o 32_PrintFromTopToBottom 
